@@ -1,2 +1,2 @@
 # multiple -Linear-Regression- 
-# Assignmet of simple staticts 
+# Assignmet of simple statistics 
